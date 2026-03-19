@@ -1,4 +1,5 @@
 # Minilab
+![2f41d9ye1sgf1](https://github.com/user-attachments/assets/5226b7f7-33a0-4da5-988b-00967e323c2a)
 
 ## B.O.M.
 
